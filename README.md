@@ -44,10 +44,9 @@ Each concept includes multiple functional examples for verification and analysis
 ```text
 PROLANG-FINAL/
 │
-├── PROLANG_FINAL_PROJ_COMPLETED_FIXED.ipynb
+├── PROLANG_FINAL_PROJ_COMPLETED_GROUP 6.ipynb
 ├── README.md
 ├── AI_USAGE_DOCUMENTATION.md
-└── assets/
 ```
 
 ---
@@ -127,8 +126,10 @@ jupyter notebook
 
 # Authors
 
-* Your Name Here
-* Partner Name Here
+* HOBAYAN, CRAIG DAVID P.
+* EGOC, JOEY P.
+* FAMINI, DENICE A.
+* SACAYLE, JESTIN CLARK V.
 
 ---
 
