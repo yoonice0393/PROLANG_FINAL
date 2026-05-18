@@ -2,8 +2,7 @@
 
 ## AI Tools Used
 - ChatGPT
-- GitHub Copilot (if used)
-- Cursor / Claude / Gemini (if used)
+- Claude / Gemini 
 
 ## Purpose of AI Assistance
 AI tools were used to:
