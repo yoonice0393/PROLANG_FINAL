@@ -8,6 +8,10 @@ This project is a comparative programming language audit between **JavaScript/Ty
 
 The project was created as part of the **Programming Languages Final Project Requirement**.
 
+**Video Walkthrough:** [Insert Link to Video]
+
+**Google Colab Link:** https://colab.research.google.com/drive/1FMPbzfUe9E0omNi3E6QQyYcuCPGhs_SK?usp=sharing
+
 ---
 
 # Objectives
